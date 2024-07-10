@@ -1,0 +1,8 @@
+# YOLOv8 requirements
+# Usage: pip install -r requirements.txt
+
+# Base ------------------------------------------------------------------------
+numpy
+opencv-python
+pandas
+ultralytics
